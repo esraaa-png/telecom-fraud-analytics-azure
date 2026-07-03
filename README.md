@@ -72,7 +72,7 @@ The entire solution follows Microsoft's **Medallion Architecture**, ensuring hig
 The platform follows a modern Azure Data Engineering architecture, where data flows through multiple processing layers before reaching the analytical warehouse and reporting layer.
 
 <p align="center">
-<img src="screenshots/Screenshot 2026-06-08 194857.png" width="100%">
+  <img src="screenshots/architecture.png" width="100%">
 </p>
 
 ### Architecture Components
